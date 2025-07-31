@@ -30,7 +30,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Vacuum Cleaner bot "
-              description="Designed and developed an autonomous vacuum cleaner with optimized motor control and obstacle detection, utilizing advanced microcontroller programming for smooth operation and enhanced system performance through precise integration."
+              description="Designed and developed an autonomous vacuum cleaner with optimized motor control and obstacle detection, utilizing advanced microcontroller programming for smooth operation and enhanced system performance through precise integrations."
             />
           </Col>
         </Row>
