@@ -21,7 +21,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               title="Data Insights"
-              description="Led the cleanup of Diwali sales data, ensuring 100% accuracy for key metrics, and analyzed purchasing patterns by gender, age, and location to identify high-potential demographics. Provided insights on revenue contributions from different states and age groups, influencing targeted marketing strategies and optimizing future sales initiatives."
+              description="Led the cleanup of Diwali sales data, ensuring 100% accuracy for key values, and analyzed purchasing patterns by gender, age, and location to identify high-potential demographics. Provided insights on revenue contributions from different states and age groups, influencing targeted marketing strategies and optimizing future sales initiatives."
             />
           </Col>
 
